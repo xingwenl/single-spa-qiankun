@@ -1,6 +1,9 @@
 # single-spa-qiankun
 基于single-spa的qiankun 框架
 
+> [项目地址](https://github.com/xingwenl/single-spa-qiankun)
+> [demo](http://spa-root.dev.lixw.top/)
+
 ## 启动
 进入子项目 vue-spa
 ```bash
